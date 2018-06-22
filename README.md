@@ -1,4 +1,4 @@
-# MLP_TriplePass_G29
+# vae_network_embedding
 
 
 You can first run the < main.py > in the src directory, and the evaluation criteria will be printed out.
